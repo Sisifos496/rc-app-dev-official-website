@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-<<<<<<< HEAD
+
       <div className="navbar">
         <div className="navbar-left">
 
@@ -16,9 +16,6 @@ function App() {
       <div className="foot">
 
       </div>
-=======
-      hello
->>>>>>> cd652f230947a3eecf9675b8436b28d4df137a78
     </div>
   );
 }
